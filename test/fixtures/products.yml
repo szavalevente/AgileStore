@@ -1,13 +1,19 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  description: MyText
-  image_url: MyString
+  title: String
+  description: String
+  image_url: String
   price: 9.99
 
-two:
-  title: MyString
-  description: MyText
-  image_url: MyString
+product1:
+  title: Product title1
+  description: Product description1
+  image_url: product1.jpg
   price: 9.99
+
+product2:
+  title: Product title2
+  description: Product description2
+  image_url: product2.jpg
+  price: 29.99
